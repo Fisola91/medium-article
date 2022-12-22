@@ -10,3 +10,23 @@
 .container p {
   color: rgb(216, 211, 211);
 }
+
+.text-justify {
+  text-align: justify;
+  padding: 0 400px
+}
+.text-justify p {
+  font-size: larger;
+  font-family: 'Lora';
+}
+
+#inline-text {
+  font-size: larger;
+  background-color: rgb(197, 204, 197);
+  line-height: 1.6;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#inline-text:hover {
+  background-color: rgb(108, 175, 108);
+}
