@@ -1,0 +1,12 @@
+.container {
+  color: white;
+  background-image: url("sample.jpeg");
+  height: 300px;
+  font-size: 30px;
+  text-align: center;
+  padding: 50px 50px
+}
+
+.container p {
+  color: rgb(216, 211, 211);
+}
